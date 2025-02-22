@@ -1,5 +1,3 @@
----
-
 # Vigenère Cipher Encryption and Decryption
 
 This project demonstrates the implementation of the **Vigenère Cipher** algorithm, a classical encryption method used for encrypting and decrypting messages. The algorithm was implemented as part of a learning project on **freeCodeCamp**.
