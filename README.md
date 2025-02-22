@@ -62,7 +62,7 @@ print(f'Decrypted text: {decryption}')
 ### License:
 This project is open-source under the MIT license. Feel free to modify and contribute!
 
-Tabii, işte Türkçe olarak güncellenmiş `README.md` dosyası:
+
 
 ---
 
