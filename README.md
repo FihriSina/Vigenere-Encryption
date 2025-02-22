@@ -125,5 +125,3 @@ print(f'Decrypted text: {decryption}')
 
 ### Lisans:
 Bu proje MIT lisansı altında açık kaynaklıdır. Değiştirebilir ve katkıda bulunabilirsiniz!
-
----
